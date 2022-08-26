@@ -19,8 +19,8 @@ python3 question1.py -a a.txt -B B.fa
 NOTE: The script has not been optimised. Specially the calculation of the Levenshtein distance.
 I am aware that there are oportunities to optimise the for loops that I am utilising in this
 implementation, but in order to not extend the amount of time that I spent on the assignment 
-more than it was expected I have decided to submit this first draft implementation and I'm 
-open to discuss its optimisation when we go over it in detail. 
+more than it was expected, I have decided to submit this first draft implementation. I'm 
+happy to discuss its optimisation when we go over it in detail. 
 
 ## Question 2:
 
